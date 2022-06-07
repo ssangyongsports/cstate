@@ -21,7 +21,7 @@
 - id: isNotice
   translation: Please read announcement
 - id: isOk
-  translation: 未檢測到問題
+  translation: 未檢測到問題!
 # No JS warning
 - id: noScriptingIntro
   translation: Uh oh! It looks like you have disabled JavaScript. Please
